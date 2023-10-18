@@ -1,0 +1,11 @@
+Model Information:
+* title:	Japanese Vending Machine (Game Ready)
+* source:	https://sketchfab.com/3d-models/japanese-vending-machine-game-ready-ad6fbf4844504b4f8321a990fcc4d3bf
+* author:	erlangga da (https://sketchfab.com/erlangga_da)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Japanese Vending Machine (Game Ready)" (https://sketchfab.com/3d-models/japanese-vending-machine-game-ready-ad6fbf4844504b4f8321a990fcc4d3bf) by erlangga da (https://sketchfab.com/erlangga_da) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
